@@ -7,9 +7,6 @@ const authenticate = require("../middleware/authenticate");
 require('../db/conn');
 const User = require("../model/userSchema");
 
-// router.get('/',(req,res)=>{
-//     res.send("hello world from server route.js")
-// });
 
 
 
